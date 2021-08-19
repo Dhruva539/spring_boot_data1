@@ -1,0 +1,7 @@
+Use below URLS to check how Pagesize, no, etc.. works
+
+http://localhost:8080/employees?pageSize=5
+http://localhost:8080/employees?pageSize=5&pageNo=1
+http://localhost:8080/employees?pageSize=5&pageNo=2
+http://localhost:8080/employees?pageSize=5&pageNo=1&sortBy=email
+http://localhost:8080/employees?pageSize=5&pageNo=1&sortBy=firstName
